@@ -1,0 +1,11 @@
+name = "spin-mama-bonus-com-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mama-bonus.com.de"
+HMAC_KEY = "b2da34c57888f6c2a1930c5fa9ac768e05b297ba2974daa0a8553f2357f39a81"
+COOKIE_NAME = "s7q"
+PLAY_PATH = "visit-site"
+BUTTON_ID = "p0dfead1332bfaedadafa6cc6b8e8b06a"
+GATE_SALT = "ff2eeaaf5bb359f0"
